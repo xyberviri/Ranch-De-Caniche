@@ -96,11 +96,6 @@ You can read more here [HERE](https://opensource.stackexchange.com/questions/172
 
 # FAQs
 
-**Q: I bought a similar map from someone! WTF!?**
-
-**A:** You got scammed. 
-
--------------
 
 **Q: The map goes invisible or I crash near this area, why?**
 
