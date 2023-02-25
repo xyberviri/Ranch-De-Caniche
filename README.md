@@ -15,6 +15,7 @@ This MLO is a joint project in collaboration with AleBrambi45 and SMGMissy, with
 * Cinema With Seating for 43 Players :popcorn:
 * Car Gens - Volatus Helicopter, Ride On Lawn Mower, Quad Bike in garage, Tractors and ranomized vehicle spawn on driveway  :oncoming_automobile:
 * Taxidermy heads credit of @SMGMissy :deer:
+* Working ladders for swimming pool 🏊‍♂️
 
 # **OPTIONAL FEATURES:**
 
